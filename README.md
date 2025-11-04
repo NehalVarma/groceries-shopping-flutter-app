@@ -18,10 +18,6 @@ This project is UI oriented so do not take it as a full fledge app. It is a simp
 
 - 🛍️ Shopping cart functionality- Original UI design: [Here](https://dribbble.com/shots/6120171-Groceries-Shopping-App-Interaction "Original Design URL")
 
-- ✨ Product details with smooth page transitions- For more Flutter apps: [From Here](https://github.com/AhmedAbouelkher "profile")
-
-- Video/Live Demo: [From Here](https://youtu.be/Um_O8Bpl7Yo "Demo")  
-
 ## Technologies Used
 
 
