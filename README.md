@@ -2,8 +2,6 @@
 
 
 
-A beautiful and modern Flutter-based groceries shopping application with an elegant UI and smooth animations.**Edit 26/09/2024** It has been 4 years since I last updated this project. I wrote it when I was first learning flutter and it became a hit. I am happy to see that it has more than 200 stars and 50 forks. I wanted to upgrade the project to the latest version of flutter and add some new features. I will do so in the next few days. Stay tuned.
-
 This project is UI oriented so do not take it as a full fledge app. It is a simple shopping app that has a nice UI. It is built using Flutter and Dart.
 
 ## FeaturesTo be frank, it has many old packages or patterns so just take it as is for learning purposes. I will update it soon with the latest packages and patterns. 🙃
