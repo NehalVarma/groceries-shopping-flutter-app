@@ -1,0 +1,43 @@
+name: groceries_shopping_app
+description: "A beautiful groceries shopping app built with Flutter"
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  after_layout: ^1.2.0
+  awesome_dialog: ^3.2.1
+  cupertino_icons: ^1.0.8
+  flutter_platform_widgets: ^7.0.1
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_svg: ^2.0.10+1
+  font_awesome_flutter: ^10.7.0
+  provider: ^6.1.2
+  response: ^1.0.0
+  shared_preferences: ^2.3.2
+  step_progress_indicator: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.jpg"
+
+flutter_native_splash:
+  image: assets/icon.jpg
+  color: "ffffff"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
